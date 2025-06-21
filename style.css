@@ -1,0 +1,24 @@
+/*
+Theme Name: Pulse
+Theme URI: https://pulse.com/
+Author: shohag
+Author URI: https://shohag.com
+Description: A custom WordPress theme called Pulse.
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: pulse
+Tags: custom-theme, responsive, blog
+*/
+
+/* Responsive */
+@media (max-width: 600px) {
+    main {
+        padding: 0 10px;
+    }
+}
+
+.custom-logo {
+  max-width: 80px;
+  height: auto;
+}
