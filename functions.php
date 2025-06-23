@@ -43,5 +43,4 @@ function pulse_enqueue_scripts() {
 add_action("wp_enqueue_scripts", "pulse_enqueue_scripts");
 add_action("after_setup_theme", "pulse_setup_theme");
 
-
 ?>
